@@ -1,3 +1,3 @@
 # What We'll Learn
-- We will learn to build circuits with a buzzer, potentiometer and button using serial and parallel connections on a breadboard. 
-- We will develop projects using these circuit elements and we will understand the working logic of the circuit elements. At the same time, we will understand the working logic of the if-else loop with the codes we wrote on the Arduino IDE while developing the project and we will start using it in our projects.
+- The aim of this week is to enable students to understand the working principles of the diode using the Arduino UNO microcontroller and to make connections to the gate     circuits, which is one  the basic concepts in digital electronics, and to program this circuit as desired with the Arduino IDE software. 
+- Then, it is aimed to develop the software foundations by designing more complex LED and RGB LED circuits and programming them with Arduino IDE.
