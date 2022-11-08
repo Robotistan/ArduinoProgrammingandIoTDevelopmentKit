@@ -1,3 +1,2 @@
 # What We'll Learn
-- We will learn to build circuits with a buzzer, potentiometer and button using serial and parallel connections on a breadboard. 
-- We will develop projects using these circuit elements and we will understand the working logic of the circuit elements. At the same time, we will understand the working logic of the if-else loop with the codes we wrote on the Arduino IDE while developing the project and we will start using it in our projects.
+- By learning the working logic of the displays, we will get to know the 7 segment display and LCD display from the display types, learn the working logic and develop an Arduino platform project
