@@ -25,8 +25,67 @@
 - [Tower Pro SG90 RC Mini Servo Motor](https://shop.robotistan.com/products/tower-pro-sg90-rc-mini-servo-motor?_pos=1&_sid=77f6786ad&_ss=r "Heading Link")
 - [Alligater Clip Cable Package - Insulated Test Lead - 10 Pcs](https://shop.robotistan.com/products/alligater-clip-cable-package-insulated-test-lead-10-pcs?_pos=1&_sid=7ca12d087&_ss=r "Heading Link")
 - [HC-SR501 Adjustable PIR Motion Detector IR Sensor Board](https://shop.robotistan.com/products/hc-sr501-adjustable-pir-motion-detector-ir-sensor-board?_pos=1&_sid=ab1378db8&_ss=r "Heading Link")
-
-
+- Klemens Çıkışlı DC Female Barrel Jack - DC Female Barrel to Wire Jack
+-  A to B USB Cable/ Printer Cable 
+-  GePro UM-85, 12V 1A Adapter
+-  9V Battery Head
+-  Buzzer
+-  Sound Card
+-  SD Card Module 
+-  Sandisk 16 GB MicroSD 80 MB/s Class10 Memory Card - With Card Adapter 
+-  5mm Transparent White LED Package 
+-  5mm Blue LED Package 
+-  5mm Green LED Package
+-  5mm Yellow LED Package
+-  5mm Red LED Package
+-  5mm Transparent RGB LED 
+-  74HC595 Integrated
+-  14mm 7 Segment Display - Cathode 
+-  20mm Anode Red 7 Segment Display - KPS-81 02BSRND
+-  4-Pin Push Button - Black (6x6x5 mm)
+-  1/4 W 4.7K Resistor Pack
+-  1/4 W 100R Resistor Pack 
+-  1/4 W 220R Resistor Pack
+-  1/4 W 330R Resistor Pack
+-  1/4 W 470R Resistor Pack 
+-  1/4 W 560R Resistor Pack
+-  1/4 W 1K Resistor Pack 
+-  1/4 W 10K Resistor Pack
+-  1/4 W 1M Resistor Pack
+-  10K Potentiometer - WH148
+-  BC547 - TO92 Transistor 
+-  8 Ohm 5W Speaker
+-  5mm LDR
+-  Tilt Sensor Card
+-  LM35DZ	
+-  3x4 Keypad	
+-  Fire Sensor Card (Flame Sensor) 
+-  Mini Magnetic Hall Effect Sensor Board
+-  Ultrasonic Sensor Mounting Apparatus Type C 
+-  Slot Color Detection Sensor - TCS34725 
+-  TTP223 1 Way Touch Switch
+-  2x16 No Light Alphanumeric Character LCD - HY-1602F-001
+-  4x20 LCD Display
+-  DC Motor and Propeller (3-6V)
+-  100 nF Ceramic Capacitor Pack 
+-  100uF 16V Capacitor 
+-  100 pF Ceramic Capacitor Pack
+-  4.7uF 16V Capacitor
+-  330uF 16V Electrolyte Capacitor 
+-  470 uF 16 V Capacitor
+-  47uF 25V Capacitor
+-  1N4007 - 1000 V 1 A Axial Type Diode Package
+-  Plexi Robot Arm - Arduino Compatible 
+-  2WD Multi-Purpose Mobile Robot Platform 
+-  TCRT5000 Infrared Sensor
+-  Magnetic Door Alarm Sensor 
+-  12x12cm Perforated (Copper) Pertinax Single Sided
+-  1N4001 - 50 V 1 A Axial Type Diode Package
+-  Reed Relay Board 4 Pin 
+-  GP Recyko 9V 200mAh Rechargeable Battery 
+-  Organized Box with 14 Compartments 
+-  1/4W 68R Resistor Pack 
+-  Passive Buzzer
 
 
 
