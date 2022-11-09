@@ -1,2 +1,3 @@
 # The Circuit Diagram
-![Capture](https://user-images.githubusercontent.com/112697142/199985836-a65a967b-8b25-4fb0-81ef-7826ae4c12b1.PNG)
+![dgc](https://user-images.githubusercontent.com/112697142/200820868-860fe904-8c0f-4f06-a6cc-1ad412719e94.PNG)
+![hg](https://user-images.githubusercontent.com/112697142/200820906-b2d315fe-03bd-4937-9d84-4715f0e761b1.PNG)
