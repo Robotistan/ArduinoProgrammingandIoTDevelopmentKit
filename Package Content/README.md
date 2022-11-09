@@ -8,7 +8,7 @@
 - [Jumper Wires Standards-26 AWG-40 Pack](https://shop.robotistan.com/products/jumper-wires-standards-26-awg-40-pack?_pos=1&_sid=07b57fd09&_ss=r&variant=41569340260503 "Heading Link")
 - [DS3231 Precise RTC and 24C32 Memory Card](https://shop.robotistan.com/products/ds3231-precise-rtc-and-24c32-memory-card?variant=41256305918103 "Heading Link")
 - [Sound Sensor Card (4-pin)](https://shop.robotistan.com/products/sound-sensor-4pin?_pos=1&_sid=98b27cc56&_ss=r "Heading Link")
-- [RC522 RFID Kit - Mifare RC522 RF IC Card Sensor Module + S50 Blank Card + Key Ring for Arduino Raspberry Pi](RC522 RFID Kit - Mifare RC522 RF IC Card Sensor Module + S50 Blank Card + Key Ring for Arduino Raspberry Pi "Heading Link")
+- [RC522 RFID Kit-Mifare RC522 RF IC Card Sensor Module + S50 Blank Card + Key Ring for Arduino Raspberry Pi](RC522 RFID Kit - Mifare RC522 RF IC Card Sensor Module + S50 Blank Card + Key Ring for Arduino Raspberry Pi "Heading Link")
 - [MPU6050 6-axis Accelerometer Gyroscope Sensor Module](https://shop.robotistan.com/products/mpu6050-6-axis-accelerometer-gyroscope-sensor-module?_pos=1&_sid=dbe2384d6&_ss=r "Heading Link")
 - [2 Axis Joystick Module with Push Button](https://shop.robotistan.com/products/2-axis-joystick-module-w-push-button?_pos=1&_sid=22f05d7f3&_ss=r "Heading Link")
 - [DHT11 Temperature and Humidity Sensor Breakout Module](https://shop.robotistan.com/products/dht11-temperature-humidity-sensor-breakout?_pos=1&_sid=2a2bcc4a8&_ss=r "Heading Link")
