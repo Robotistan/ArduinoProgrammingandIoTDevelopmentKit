@@ -1,4 +1,3 @@
 # What We'll Learn
--  To understand the working logic of Tilt, PIR, RFID card reader, keypad, water level-rain and gas sensor and learn how to develop projects with these sensors. 
--  We will learn the concept of IoT (Internet of Things) and we will start developing projects in this field.
+-  To understand the working logic of the Bluetooth sensor and to realize projects by integrating the motor driver, DC motor, battery holder, Bluetooth sensor and some sensors we used before on the mobile robot platform by installing the mobile robot platform in the set content.
 
