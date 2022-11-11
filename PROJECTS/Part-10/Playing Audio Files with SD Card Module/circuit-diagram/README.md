@@ -1,2 +1,2 @@
 # The Circuit Diagram
-![dd](https://user-images.githubusercontent.com/112697142/201106406-25a92428-9873-4aaa-9e7b-828a4f3837b9.PNG)
+![1](https://user-images.githubusercontent.com/112697142/201328648-a9350483-ef02-4e72-bd65-cf46e2c4f313.PNG)
