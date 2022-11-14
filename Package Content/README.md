@@ -25,7 +25,7 @@
 - [Tower Pro SG90 RC Mini Servo Motor](https://shop.robotistan.com/products/tower-pro-sg90-rc-mini-servo-motor?_pos=1&_sid=77f6786ad&_ss=r "Heading Link")
 - [Alligater Clip Cable Package - Insulated Test Lead - 10 Pcs](https://shop.robotistan.com/products/alligater-clip-cable-package-insulated-test-lead-10-pcs?_pos=1&_sid=7ca12d087&_ss=r "Heading Link")
 - [HC-SR501 Adjustable PIR Motion Detector IR Sensor Board](https://shop.robotistan.com/products/hc-sr501-adjustable-pir-motion-detector-ir-sensor-board?_pos=1&_sid=ab1378db8&_ss=r "Heading Link")
-- Klemens Çıkışlı DC Female Barrel Jack - DC Female Barrel to Wire Jack
+-  DC Female Barrel to Wire Jack
 -  A to B USB Cable/ Printer Cable 
 -  GePro UM-85, 12V 1A Adapter
 -  9V Battery Head
